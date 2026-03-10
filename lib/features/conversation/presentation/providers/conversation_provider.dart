@@ -1,8 +1,9 @@
-import 'package:english_practice_app/core/utils/permission_handler.dart';
-import 'package:english_practice_app/features/conversation/data/chatbot_engine.dart';
-import 'package:english_practice_app/features/conversation/data/models/chat_message.dart';
-import 'package:english_practice_app/features/speech_to_text/data/stt_service.dart';
-import 'package:english_practice_app/features/text_to_speech/data/tts_service.dart';
+
+import 'package:Talkiva/core/utils/permission_handler.dart';
+import 'package:Talkiva/features/conversation/data/chatbot_engine.dart';
+import 'package:Talkiva/features/conversation/data/models/chat_message.dart';
+import 'package:Talkiva/features/speech_to_text/data/stt_service.dart';
+import 'package:Talkiva/features/text_to_speech/data/tts_service.dart';
 import 'package:flutter/foundation.dart';
 
 

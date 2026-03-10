@@ -1,4 +1,4 @@
-name: english_practice_app
+name: Talkiva
 description: A Flutter app to practice English using Speech-to-Text and Text-to-Speech.
 publish_to: 'none'
 version: 1.0.0+1

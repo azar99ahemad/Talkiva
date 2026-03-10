@@ -1,7 +1,7 @@
+import 'package:Talkiva/core/utils/text_comparator.dart';
+import 'package:Talkiva/features/conversation/data/chatbot_engine.dart';
+import 'package:Talkiva/features/practice_mode/data/practice_repository.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:english_practice_app/core/utils/text_comparator.dart';
-import 'package:english_practice_app/features/practice_mode/data/practice_repository.dart';
-import 'package:english_practice_app/features/conversation/data/chatbot_engine.dart';
 
 void main() {
   group('TextComparator', () {
